@@ -1,5 +1,11 @@
 # @accounts/two-factor
 
+## 0.32.3
+
+### Patch Changes
+
+- [#1182](https://github.com/accounts-js/accounts/pull/1182) [`4b6878fb`](https://github.com/accounts-js/accounts/commit/4b6878fb06b85563f478f191b9543283f22877a3) Thanks [@pradel](https://github.com/pradel)! - Add missing await to when unsetting two-factor
+
 ## 0.32.2
 
 ### Patch Changes
